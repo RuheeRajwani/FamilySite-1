@@ -1,5 +1,7 @@
 Rajwani Family web site version 1. 
 
+This website is about the Rajwani family. Includes personal profiles, vacations and a contact us form.
+
 To try it out, just open the index.html in any browser.
 
 1. Only uses html and css.
